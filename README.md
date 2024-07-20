@@ -60,6 +60,17 @@ Thank you for joining me on this journey. I hope this diary not only aids your g
 
 Happy coding!
 
+## Did You Find This Useful?
+
+If this repository has been helpful to you in your career or if you've found it useful in any way, I'd love to hear from you! Please feel free to reach out to me:
+
+- **LinkedIn**: [Christiaan Molendijk](https://www.linkedin.com/in/cmolendijk/)
+- **X (Twitter)**: [@cmolendijk](https://twitter.com/cmolendijk)
+
+If you'd like to support my work, consider buying me a coffee. Your support is greatly appreciated!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cmolendijk)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
