@@ -1,4 +1,3 @@
-```markdown
 # The Developer's Journey: A Diary of Mastery from Novice to Expert
 
 ## Introduction
@@ -64,4 +63,3 @@ Happy coding!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-```
