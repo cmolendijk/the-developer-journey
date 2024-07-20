@@ -18,27 +18,27 @@ This repository is organized into five levels of experience, each divided into t
 
 ### Levels of Experience
 
-1. **Novice Developer**
+1. **[Level 1 Novice Developer](diary/level_1_novice_developer/README.md)**
    - Introduction to Programming
    - Fundamentals of Coding
    - Simple Design Principles
 
-2. **Junior Developer**
+2. **[Level 2 Junior Developer](diary/level_2_junior_developer/README.md)**
    - Intermediate Coding Practices
    - Test-Driven Development (TDD)
    - Object-Oriented Programming (OOP)
 
-3. **Mid-Level Developer**
+3. **[Level 3 Mid Level Developer](diary/level_3_mid_level_developer/README.md)**
    - Advanced Coding Practices
    - Design Patterns
    - Functional Programming
 
-4. **Senior Developer**
+4. **[Level 4 Senior Developer](diary/level_4_senior_developer/README.md)**
    - Architectural Design
    - Advanced Functional Programming
    - System Design
 
-5. **Expert Developer**
+5. **[Level 5 Expert Developer](diary/level_5_expert_developer/README.md)**
    - Mastering Software Craftsmanship
    - Innovative Design Patterns
    - Cutting-Edge Technologies
